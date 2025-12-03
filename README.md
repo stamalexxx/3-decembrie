@@ -8,3 +8,6 @@ https://www.figma.com/design/16FZtSBnf69LfS8u6T74XT/%D0%9F%D1%80%D0%B5%D0%B7%D0%
 
 ## Анимация кнопок
 https://www.figma.com/design/Hus7vKlT5wdXjDyC8vt8Fh/Untitled?node-id=0-1&p=f&t=ba9rgbry6Q72IYx7-0
+
+
+P.S ИЗМЕНЕНО В НОВОЙ ВЕТКЕ
